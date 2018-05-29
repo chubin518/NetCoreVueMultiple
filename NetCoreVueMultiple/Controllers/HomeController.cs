@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -15,9 +15,8 @@ namespace NetCoreVueMultiple.Controllers
             return View();
         }
 
-        public IActionResult About()
+        public IActionResult Index1()
         {
-            ViewData["Message"] = "Your application description page.";
 
             return View();
         }

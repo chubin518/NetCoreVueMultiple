@@ -1,0 +1,1 @@
+{"version":3,"sources":["Index.css"],"names":[],"mappings":"AAGA,GACE,oBAAsB,CACvB","file":"Index.css","sourcesContent":["\r\n/* 这里写通用的样式 */\r\n\r\nh1 {\r\n  background-color: red;\r\n}\r\n"]}
