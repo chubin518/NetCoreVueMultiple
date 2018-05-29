@@ -1,0 +1,2 @@
+webpackJsonp([2],{QuPE:function(e,u,n){"use strict";Object.defineProperty(u,"__esModule",{value:!0});var t=n("7+uW"),a=n("zL8q"),c=n.n(a),o=n("tvR6"),i=(n.n(o),n("Vi3T")),l=n.n(i);t.default.use(c.a,{locale:l.a})},tvR6:function(e,u){}},["QuPE"]);
+//# sourceMappingURL=index.js.map
